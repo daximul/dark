@@ -38,9 +38,7 @@
 
 <section class="fusion-home-float">
     <h2>Script</h2>
-    <nav>
-        <a href="https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua" class="arrow-link">Loader (Recommended)</a>
-    </nav>
+    <a href="https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua" class="arrow-link">Loader (Recommended)</a>
     <p>
         Loadstring
     </p>
