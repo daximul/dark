@@ -4,6 +4,7 @@ These tutorials assume that you're comfortable with Roblox and the Lua scripting
 
 !!! note "Known Supported Executors"
 	[Synapse X](https://x.synapse.to), [Scriptware](https://script-ware.com), [KRNL](https://krnl.place)
+
 	The following executors have been confirmed to be able to run the script.
 
 If everything was set up correctly, you can press 'Play' and everything should
