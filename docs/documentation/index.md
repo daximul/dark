@@ -1,12 +1,12 @@
 ## Information
 
-These tutorials assume that you're comfortable with Roblox and the Lua scripting language.
+Everything you will be reading here will assume that you're comfortable with Roblox and the Lua scripting language.
 
-The admin is just lots of code I probably stole that I use to improve my knowledge of lua.
+The admin is just lots of code I probably stole that I use to improve my knowledge of Lua.
 
-The script downloads itself incase HttpGet or GitHub just breaks.
+The script downloads itself in case HttpGet or GitHub breaks.
 
-This is a file based admin system using `import` (you will learn about it later).
+This is a file-based admin system using `import` (you will learn about it later).
 
 !!! note "Known Supported Executors"
 	[Synapse X](https://x.synapse.to), [Scriptware](https://script-ware.com), [KRNL](https://krnl.place)
