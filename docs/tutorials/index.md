@@ -7,6 +7,8 @@ These tutorials assume that you're comfortable with Roblox and the Lua scripting
 
 	The following executors have been confirmed to be able to run the script.
 
+-----
+
 ## Executing the Script
 
 !!! example "Steps"
