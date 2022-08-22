@@ -11,7 +11,7 @@
 <script src="assets/index.js"></script>
 
 <section class="fusion-home-landing">
-    <h1>Have fun with modernity.</h1>
+    <h1>Script from boredom.</h1>
     <p>
         Dark Admin was made (more like mostly skidded) for when you're bored.
     </p>
