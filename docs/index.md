@@ -25,6 +25,8 @@
     </nav>
 </section>
 
+-----
+
 <section class="fusion-home-float">
     <h2>Why?</h2>
     <p>
@@ -34,6 +36,8 @@
         I'm bad at lua.
     </p>
 </section>
+
+-----
 
 <section class="fusion-home-float">
     <h2>Script</h2>
