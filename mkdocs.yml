@@ -6,8 +6,8 @@ repo_url: https://github.com/daximul/dark
 theme:
   name: material
   custom_dir: docs/assets/overrides
-  logo: assets/logo-animated.png
-  favicon: assets/logo-dark.svg
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     scheme: fusion-dark
     primary: black
