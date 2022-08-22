@@ -34,8 +34,6 @@
     </p>
 </section>
 
------
-
 <section class="fusion-home-float">
     <h2>Script</h2>
     <a href="https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua" class="arrow-link">Loader (Recommended)</a><br>
