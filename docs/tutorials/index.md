@@ -7,9 +7,6 @@ These tutorials assume that you're comfortable with Roblox and the Lua scripting
 
 	The following executors have been confirmed to be able to run the script.
 
-If everything was set up correctly, you can press 'Play' and everything should
-run without any errors.
-
 ## Executing the Script
 
 !!! example "Steps"
