@@ -7,9 +7,6 @@
 <link rel="stylesheet" href="assets/index.css">
 <script src="assets/index.js"></script>
 
-<link rel="stylesheet" href="assets/index.css">
-<script src="assets/index.js"></script>
-
 <section class="fusion-home-landing">
     <h1>Script from boredom.</h1>
     <p>
@@ -44,9 +41,11 @@
     <nav>
         <a href="https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua" class="arrow-link">Loader (Recommended)</a>
     </nav>
+    <p>
+        Loadstring
+    </p>
 </section>
 
-Loadstring
 ```Lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua"))()
 ```
