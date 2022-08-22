@@ -13,12 +13,12 @@
 <section class="fusion-home-landing">
     <h1>Script from boredom.</h1>
     <p>
-        Dark Admin was made (more like mostly skidded) for when you're bored.
+        Dark Admin was made (more like mostly skidded) because I got bored.
     </p>
     <p>
         Decent UI.<br>
         Sandboxed Plugins.<br>
-        Almost undetectable.
+        Almost Undetectable.
     </p>
     <nav>
         <a href="tutorials/" class="arrow-link">Get Started</a>
