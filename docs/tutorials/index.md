@@ -15,6 +15,12 @@ This is a file based admin system using `import` (you will learn about it later)
 
 -----
 
+## Why is the loader recommended
+
+I recommend the [loader](https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua) instead of the [loadstring](https://raw.githubusercontent.com/daximul/dav2/main/loadstring/script.lua) because if you have already executed the admin before something like a rare case of GitHub going down, you can still execute the script.
+
+-----
+
 ## Executing the Script
 
 !!! example "Steps"
