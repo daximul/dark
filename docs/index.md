@@ -39,11 +39,5 @@
 <section class="fusion-home-float">
     <h2>Script</h2>
     <a href="https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua" class="arrow-link">Loader (Recommended)</a>
-    <p>
-        Loadstring
-    </p>
+    <a href="https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loadstring.lua" class="arrow-link">Loadstring</a>
 </section>
-
-```Lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/daximul/dav2/main/loadstring/loader.lua"))()
-```
