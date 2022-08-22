@@ -18,7 +18,7 @@
         Almost Undetectable.
     </p>
     <nav>
-        <a href="tutorials/" class="arrow-link">Get Started</a>
+        <a href="documentation/" class="arrow-link">Get Started</a>
     </nav>
 </section>
 
